@@ -61,8 +61,8 @@ def AESCBC_ECB_decrypt(key, nonce, cipher_data):
 # Example usage
 if __name__ == "__main__":
   
-    key = "f95a00c0b178acb6c24a85146024146c1bb51d26d93182394228742f58ead6d1"
-    nonce = "e0751dcbafd5612e14013c23ac20600f"
+    key = ""
+    nonce = ""
     
     plaintext = "Hello How are you!"
     
